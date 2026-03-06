@@ -7,57 +7,17 @@ The goal is to improve my programming skills through consistent daily practice.
 - Improve problem-solving skills
 - Build the habit of coding every day
 - Share my learning progress
-
 ## Progress
 
-### Day 1
-**Topics practiced:**
-- Variables (`let`, `const`)
-- Data types
-- Objects
-- `typeof` operator
-- Accessing object properties
+Day 1 – Variables, data types, objects  
+Day 2 – Operators and conditional statements  
+Day 3 – Loops and strings  
 
-**Example concepts:**
-- Creating objects
-- Reassigning variables
-- Checking data types
+## Repository Structure
 
----
+day1.js – JavaScript basics  
+day2.js – Operators and conditions  
+day3.js – Loops and string practice  
 
-### Day 2
-**Topics practiced:**
-- Arithmetic operators (`+ - * / %`)
-- Unary operators (`++ --`)
-- Assignment operators (`+= -=`)
-- Comparison operators (`== === != !==`)
-- Logical operators (`&& || !`)
-- Conditional statements (`if`, `else if`, `else`)
-- Ternary operator
-- Switch statement
-
-**Example programs:**
-- Checking odd and even numbers
-- Using conditions to determine age category
-- Using switch statements
-
----
-
-### Day 3
-**Topics practiced:**
-- `for` loop
-- `while` loop
-- `do...while` loop
-- `for...of` loop
-- String basics
-- String methods
-- Template literals
-- Escape characters
-
-**Example programs:**
-- Sum of numbers from 1 to 10
-- Printing even numbers
-- Counting characters in a string
-- Generating a username from user input
-
-  
+## Author
+Sangharsha Subedi
