@@ -1,5 +1,5 @@
-// let name = prompt("Enter your name:");
-// console.log("Hello, " + name + "! Welcome to JavaScript programming!");
+ let name = prompt("Enter your name:");
+ console.log("Hello, " + name + "! Welcome to JavaScript programming!");
 
 
 //1...loops and strings
